@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+
+# Temporary extraction and office lock files
+~$*
+*.tmp
+
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example

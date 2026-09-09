@@ -1,0 +1,25 @@
+# Writing rules
+
+- Lead with the useful conclusion.
+- Prefer concrete nouns and verbs.
+- Keep paragraphs short and transitions explicit.
+- Explain jargon immediately or remove it.
+- Use one core idea per piece.
+- Support strong claims; soften weak ones.
+- Use examples that preserve privacy.
+- End with an action, question, or precise takeaway rather than generic inspiration.
+- Organize information in the reader’s likely question order, not the author’s research order.
+- Write headings and link/button labels that remain meaningful when scanned out of context.
+- Prefer the reader’s language while preserving technical accuracy.
+- Distinguish experience, evidence, interpretation, and hypothesis.
+- Make the actor, action, consequence, time, and next step explicit when they matter.
+- Use passive voice intentionally when the actor is unknown or irrelevant; never to hide responsibility.
+- Revise meaning and structure before polishing sentences.
+- Distinguish developmental editing, line editing, copyediting, and proofreading; do not solve one level with another.
+- Put familiar context before new complexity and place the intended emphasis deliberately.
+- Maintain a small style sheet for recurring terminology and exceptions instead of relying on memory.
+- Preserve uncertainty, denominators, baselines, and source context in prose and data visuals.
+- Proof the final rendered format and verify that edits did not introduce new errors.
+- Layer short messages as core, concrete explanation, evidence, boundary and proportionate action; never remove material limits merely to gain simplicity.
+- Use surprise only when it resolves a useful knowledge gap. Treat stories and vivid cases as illustration unless their evidential role is stronger and documented.
+- For interfaces, preserve user input, explain recovery, and never blame the user.

@@ -1,0 +1,21 @@
+# Content brief
+
+- Brand/platform:
+- Audience/context:
+- User problem, question, or task:
+- Journey role:
+- Legitimate user and business outcome:
+- One core idea:
+- Material claims, evidence levels, and limits:
+- Feature → function → customer-progress benefit and proof, if commercial:
+- Hook:
+- Structure/story/proof:
+- Parent asset/atomic units and transformation operation, if derivative:
+- Fidelity invariant, attribution, rights and correction propagation:
+- Practical implication:
+- CTA:
+- Non-fit/opt-out:
+- Total price/terms, alternatives, reversal and remedy, if applicable:
+- Accessibility, safety, privacy, consent, rights review:
+- Primary, guardrail, and downstream measures:
+- Owner and review/retirement date:

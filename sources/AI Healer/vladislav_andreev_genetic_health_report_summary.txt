@@ -1,0 +1,78 @@
+Vladislav Andreev's Genotek Genetic Health and Longevity Report Summary
+Generated: 08/01/2019
+Sample ID: E01831
+
+Overview:
+This report analyzes genetic factors linked to various health risks based on 2550 analyzed positions. It provides statistically calculated risk levels compared to the population average.
+
+Sections Covered:
+1. Hereditary Disorders
+2. Mental Health Risks
+3. Vision-Related Conditions
+4. Metabolic Disorders
+5. Digestive System Risks
+6. Allergic Conditions
+7. Cardiovascular Conditions
+8. Skin Conditions
+9. Nervous System Risks
+10. Drug Metabolism Sensitivities
+
+Key Genetic Findings:
+
+Hereditary Risks:
+- Lactose intolerance (Adult): Mutations detected (MCM6: rs4988235, rs182549)
+- AMP D1 Deficiency: Mutation detected
+- Vascular Disease Risk: Mutation in MTHFR gene detected (rs1801133)
+
+Mental Health:
+- Nicotine Dependence: Elevated risk (74%)
+- Alcohol Dependence: Low risk (19%)
+
+Vision:
+- Myopia: Elevated risk (55%)
+
+Metabolic Risks:
+- Hypertriglyceridemia: Elevated risk (46%)
+
+Digestive System:
+- Helicobacter Pylori Antibody Status: Moderate risk (45%)
+- Periodontitis: Slightly elevated risk (32%)
+
+Allergic Reactions:
+- Allergic Sensitization: Moderate risk (43%)
+- Atopic Dermatitis: Low risk (13%)
+
+Cardiovascular Risks:
+- Myocardial Hypertrophy: Moderate risk (38%)
+
+Skin Conditions:
+- Acne: Moderate risk (34%)
+
+Nervous System:
+- Mood Disorders: Population-average risk (24%)
+
+Pharmacogenetics (Drug Response Overview):
+Metabolizer Status:
+- CYP2C9: Intermediate Metabolizer (*1/*2)
+- CYP2C19: Rapid Metabolizer (*1/*17)
+
+Drug Sensitivities:
+- Detailed list covering over 200 medications including antidepressants, statins, anticoagulants, anesthetics, and anti-cancer drugs.
+- Identified increased risk for side effects like weight gain, hypertriglyceridemia, thrombosis, bleeding, or hemolysis for specific medications.
+- Specific genes, polymorphisms, and genotype results included.
+
+Example Drug Risks Identified:
+- Warfarin: Increased anticoagulation risk, necrosis
+- Aspirin/Clopidogrel: Increased bleeding risk
+- Statins: Risk of statin-induced myopathy
+- Aripiprazole, Olanzapine, Clozapine: Weight gain, lipid metabolism issues
+- Fluorouracil, Capecitabine: DPD deficiency risk
+- Isoflurane, Sevoflurane, Desflurane, Enflurane: Malignant hyperthermia risk
+- Numerous medications linked to risk of hemolysis due to G6PD polymorphisms
+
+Recommendations:
+- Consider medical consultation for clinical interpretation.
+- Discuss findings with healthcare providers when starting or adjusting medications.
+- Consider lifestyle adjustments to mitigate identified risks.
+- Monitor conditions like lipid levels, cardiovascular health, and digestive system health proactively.
+- Personalized screening and preventive strategies recommended.

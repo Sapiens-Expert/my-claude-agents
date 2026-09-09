@@ -1,0 +1,41 @@
+---
+id: claim-register
+type: evidence
+status: canonical
+canonical: true
+last_updated: 2026-08-31
+---
+
+# Claim register
+
+| ID | Claim | Status | Evidence | Safe use |
+| --- | --- | --- | --- | --- |
+| [CLM-0001](claims/CLM-0001-sleep-loss-executive-function.md) | Sleep loss impairs several dimensions of executive function | Supported | Strong | Evidence-calibrated public education |
+| [CLM-0002](claims/CLM-0002-physiological-erosion.md) | Physiological decline may precede perceived performance decline | Supported with limits | Moderate | “May” formulation and observable context |
+| [CLM-0003](claims/CLM-0003-behavior-execution-gap.md) | Prevention and health behavior often fail at execution, not information alone | Supported synthesis | Moderate to strong | Market narrative with nuance |
+| [CLM-0004](claims/CLM-0004-one-daily-action.md) | One prioritized daily action improves adherence | Hypothesis | Emerging/unknown | Product experiment only |
+| [CLM-0005](claims/CLM-0005-nervous-system-first.md) | Nervous-system-first sequencing improves outcomes | Hypothesis | Emerging | Design lens, not efficacy claim |
+| [CLM-0006](claims/CLM-0006-coaching-outcome-timelines.md) | Executive-coaching clients typically improve on stated outcomes within short timelines | Unvalidated | Marketing assertion only | Internal measurement hypothesis; not public |
+| [CLM-0007](claims/CLM-0007-integration-technology-and-supplement-outcomes.md) | Specific supplements, biomarkers, or technology materially accelerate/predict psychedelic integration | Rejected as sourced | Unreliable synthesis | Reconstruct from primary evidence before any use |
+| [CLM-0008](claims/CLM-0008-personal-autoimmune-recovery.md) | Personal improvement establishes that lifestyle or entheogens treated/cured ankylosing spondylitis | Rejected as causal | Personal narrative only | Carefully framed lived experience with consent |
+| [CLM-0009](claims/CLM-0009-ai-metabolic-advisory-validation.md) | Archived AI/metabolic system is clinically validated for diabetes management | Unvalidated | Preliminary internal report | Research-prototype description only |
+| [CLM-0010](claims/CLM-0010-behavioral-nudge-generalization.md) | Popular behavioral nudges reliably generalize across contexts | Rejected as blanket inference | Context- and mechanism-dependent | Pre-registered local test with welfare guardrails |
+| [CLM-0011](claims/CLM-0011-arthritis-lifestyle-cure.md) | A lifestyle protocol reliably heals or reverses arthritis or persistent pain | Rejected as blanket claim | Heterogeneous conditions; book/case/mechanism evidence insufficient | Condition- and outcome-specific education with clinical coordination |
+| [CLM-0012](claims/CLM-0012-natural-herbal-safety-efficacy.md) | Traditional or natural herbal products are inherently safe and effective | Rejected | Tradition/naturalness does not establish efficacy, identity, quality, or safety | Exact-product evidence and interaction/toxicity review only |
+| [CLM-0013](claims/CLM-0013-blue-ocean-growth-generalization.md) | Value-innovation methods reliably create uncontested profitable growth | Rejected as blanket inference | Case-led framework; base rates and independent causal replication unclear | Diagnosis-led hypothesis generation with utility, economics, adoption, externality and local-validation gates |
+| [CLM-0014](claims/CLM-0014-positioning-firstness-extension-laws.md) | Positioning firstness and line-extension rules generalize reliably | Rejected as blanket inference | Selected practitioner cases; representative base rates and counterfactuals absent | Treat firstness and dilution as locally tested portfolio and memory hypotheses |
+| [CLM-0015](claims/CLM-0015-category-leader-value-capture.md) | Category leaders reliably capture most category value | Unvalidated; quantitative claim rejected | Non-reproducible author analysis concentrated in public technology firms | Test local feedback loops; never promise dominance or cite the percentage as portable |
+| [CLM-0016](claims/CLM-0016-penetration-broad-reach-generalization.md) | Penetration and broad reach are universally dominant growth strategies | Rejected as universal inference | Strong repertoire-market patterns; transfer conditions vary | Diagnose locally; optimize qualified reach and economics with safety, service and retention guardrails |
+| [CLM-0017](claims/CLM-0017-loyalty-retention-profit-multiplier.md) | Small retention increases reliably create large profit multipliers | Rejected as portable quantitative claim | Economics and behavioral baselines vary by business/category | Use local cohort economics and diagnose preventable churn; never cite a generic multiplier |
+| [CLM-0018](claims/CLM-0018-branded-energizers-durable-growth.md) | Branded differentiators and energizers reliably create durable growth | Rejected as blanket inference | Selected cases; naming and attention do not establish durable demand or attribution | Verify value first; compare descriptor/no-addition options and attach economics and sunset rules |
+| [CLM-0019](claims/CLM-0019-sweet-spot-engagement-growth.md) | Customer-interest programs reliably create deeper relationships and growth | Rejected as blanket inference | Selected cases; engagement and pre-existing affinity confound effects | Participant value first; bounded incremental test with consent, privacy, attribution and harm controls |
+| [CLM-0020](claims/CLM-0020-sponsorship-experiential-equity.md) | Sponsorship and experiential programs reliably build brand equity | Rejected as blanket comparative claim | Selected historical cases; incrementality and counterfactuals unclear | Channel-neutral comparison with full cost, attribution, behavioral, reputation and exit controls |
+| [CLM-0021](claims/CLM-0021-category-barriers-superior-performance.md) | Category creation and barriers reliably produce superior performance | Rejected as blanket inference | Selected winners; base rates, causality and public costs unclear | Staged category thesis with demand, economics, response, interoperability and welfare gates |
+| [CLM-0022](claims/CLM-0022-synergy-global-scale-value.md) | Strategic synergy and global scale reliably create net value | Rejected as blanket inference | Benefits are context-dependent and may be exceeded by coordination/localization costs | Specify mechanism and net economics; compare local/independent options with reversal and exit rules |
+| [CLM-0023](claims/CLM-0023-smallest-viable-market-generalization.md) | Smallest-viable-market focus reliably drives long-term growth | Rejected as blanket inference | Practitioner cases; initial adopters need not represent later buyers | Use bounded initial focus for validation, then expand qualified reach according to evidence |
+| [CLM-0024](claims/CLM-0024-influence-principles-universal.md) | Seven influence principles produce reliable universal compliance effects | Rejected as universal claim | Heterogeneous mechanisms, contexts and evidence quality | Mechanism-specific evidence and recipient-protection audit; no guaranteed response or susceptibility profiling |
+| [CLM-0025](claims/CLM-0025-succes-message-effectiveness.md) | SUCCESs principles reliably make messages effective | Rejected as sufficiency/guarantee claim | Retrospective mixed-evidence synthesis; outcomes differ | Validity first; selective diagnostics with separate comprehension, recall, behavior and harm measures |
+| [CLM-0026](claims/CLM-0026-storybrand-revenue-generalization.md) | StoryBrand messaging reliably increases revenue across industries | Rejected as universal/causal claim | Selected commercial cases and testimonials without counterfactuals | Optional message prompts; compare variants and measure qualified downstream outcomes and harms |
+| [CLM-0027](claims/CLM-0027-linkedin-social-selling-roi.md) | LinkedIn social-selling playbooks reliably generate positive ROI | Unsupported as guaranteed/causal | Selected cases and dated vendor statistics; multi-touch confounding | Capacity-based channel test with current platform verification, full costs and stop thresholds |
+
+Business claims such as predictable funnel conversion remain unknown until operating data is recorded. Market-positioning claims require separate market evidence.

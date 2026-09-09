@@ -1,0 +1,22 @@
+# Source
+
+- Title:
+- Author/institution:
+- Author/origin verification status:
+- File metadata versus visible credits:
+- Date:
+- Edition/completeness:
+- Type:
+- URL/file:
+- Primary/secondary:
+- Relevant claims:
+- Methods/population:
+- Citation/quotation traceability:
+- Internal consistency—voice, dates, statistics and terminology:
+- First-person experience and boilerplate consistency:
+- Vendor, affiliate or service promotion:
+- Heterogeneous-compilation risk and disposition:
+- Rights/redistribution constraints:
+- Limitations/conflicts:
+- Confidence:
+- Last checked:

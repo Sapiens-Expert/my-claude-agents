@@ -1,0 +1,26 @@
+# Banned patterns
+
+- “You’re not tired, you’re…” false-diagnosis hooks.
+- Guaranteed outcomes and universal protocols.
+- Inflated neuroscience used to rebrand common advice.
+- “Doctors won’t tell you,” conspiracy framing.
+- Fear-based urgency and identity shame.
+- Biohacker/guru superiority.
+- Long stacks of mechanistic jargon without decision value.
+- Fake quotations, invented statistics, or uncited specificity.
+- Psychedelic evangelism or clinical impersonation.
+- Fake scarcity, countdowns, authority, testimonials, demand, or social proof.
+- Fear amplification, shame, status anxiety, or belonging pressure used to force action.
+- Curiosity gaps that withhold the information needed for a safe decision.
+- Confirm-shaming, hidden costs, preselected consent, obstructed cancellation, or other dark patterns.
+- Buttons or links whose label conceals the consequence.
+- Error messages that blame, joke about, or dead-end the user.
+- Stories that compress correlation into causation or present exceptional outcomes as typical.
+- “Science says” without naming the actual evidence level and limits.
+- Engagement pods, reciprocal-comment rings, coordinated early reactions, or coerced employee engagement intended to manipulate distribution.
+- Manufactured controversy, outrage, polarization, or insider disclosure used primarily to attract attention.
+- “Vulnerability sells” or any expectation that personal pain, health, trauma, family, or psychedelic experience must be disclosed for authenticity or reach.
+- Collaborative content that conceals prospecting, commercial purpose, editorial control, conflicts, reuse, or implied endorsement.
+- Pain induction, dissatisfaction amplification, false consensus, instrumental ego strokes, micro-yes ladders, premature commitments, false dilemmas, strategic silence, or objection “handling” designed to reduce autonomous refusal.
+- Post-refusal referral extraction, alternate pitches, reciprocal gifts, or milestone congratulations used to reopen a completed no.
+- Unsubstantiated health, lifestyle, earnings, retirement, tax, “unlimited income,” or opportunity claims—especially in recruitment-dependent offers.
