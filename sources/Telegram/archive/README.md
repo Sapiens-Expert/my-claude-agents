@@ -3,7 +3,7 @@ id: telegram-archive-readme
 type: fact
 status: active
 canonical: true
-last_updated: 2026-08-31
+last_updated: 2026-09-14
 brand: entheogen-expert
 ---
 
@@ -13,11 +13,11 @@ An organized, searchable archive of every message in Vlad's Telegram channel, ge
 
 ## Source
 
-`../messages.html`, `../messages2.html`, `../messages3.html`: Telegram Desktop's own export format, three sequential files covering **2023-09-21 (channel creation) through 2026-08-30**, contiguous with no gaps. The channel has been renamed at least twice over that span (service-message history shows "TabooLifting" at creation, later "Психоделическое просвещение," later "Психоделический Ренессанс," current name "Энтеогенный Ренессанс") — a post's channel name at time of writing isn't tracked per-post, only the current name in each file's frontmatter.
+`../messages.html`, `../messages2.html`, `../messages3.html`: Telegram Desktop's own export format, three sequential files covering **2023-09-21 (channel creation) through 2026-09-14**, contiguous with no gaps. The channel has been renamed at least twice over that span (service-message history shows "TabooLifting" at creation, later "Психоделическое просвещение," later "Психоделический Ренессанс," current name "Энтеогенный Ренессанс") — a post's channel name at time of writing isn't tracked per-post, only the current name in each file's frontmatter.
 
 ## Structure
 
-- `posts/<year>/<date>-<telegram-message-id>.md`: one file per publication. 2,199 files total.
+- `posts/<year>/<date>-<telegram-message-id>.md`: one file per publication. 2,206 files total.
 - `index.tsv`: one row per publication, columns `date, time, id, media, forwarded, file, title_snippet`, sorted chronologically. Tab-separated to match this repo's existing large-list convention (see `research/deep-extraction/corpus-ledger.tsv`).
 
 Each post file has frontmatter (telegram message id, date, exact timestamp, media type if any, forwarded-from source if any, reply-to id if any) followed by the cleaned message text as the body.
@@ -36,7 +36,7 @@ Each post file has frontmatter (telegram message id, date, exact timestamp, medi
 - Poll messages capture the question text only, not the full option list or vote counts.
 - Reactions and view counts from the export are not carried into these files.
 - `forwarded_from` captures the forwarded source's display name where Telegram's export exposes one; it doesn't distinguish a forward with added commentary from a bare repost.
-- This is a first pass built with a regex-based parser (pure Python standard library, no dependencies). It ran clean against all 3,319 raw message blocks with zero parse warnings and zero id collisions on 2026-08-31, but if the export format shifts in a future Telegram version, re-running may surface new edge cases; check stderr output when re-running.
+- This is a first pass built with a regex-based parser (pure Python standard library, no dependencies). It ran clean against all 3,331 raw message blocks with zero parse warnings and zero id collisions as of 2026-09-14, but if the export format shifts in a future Telegram version, re-running may surface new edge cases; check stderr output when re-running.
 
 ## Reproducing or updating this archive
 

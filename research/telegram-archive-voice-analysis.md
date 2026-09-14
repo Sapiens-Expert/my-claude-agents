@@ -9,7 +9,7 @@ last_updated: 2026-09-14
 
 # Telegram archive: structured database and voice-drift analysis
 
-First analysis of the "Энтеогенный Ренессанс" Telegram archive (`sources/Telegram/archive/`, 2,199 posts, 2023-09-21 to 2026-08-30). Nobody had queried this corpus before; it existed only as flat files. This turns it into a queryable database and answers one concrete question: does the writing voice before 2025-01-01 differ from the writing voice after, and if so, how, so the earlier voice can be deliberately imitated rather than lost.
+First analysis of the "Энтеогенный Ренессанс" Telegram archive (`sources/Telegram/archive/`, 2,206 posts, 2023-09-21 to 2026-09-14). Nobody had queried this corpus before; it existed only as flat files. This turns it into a queryable database and answers one concrete question: does the writing voice before 2025-01-01 differ from the writing voice after, and if so, how, so the earlier voice can be deliberately imitated rather than lost.
 
 ## What was built
 
@@ -18,7 +18,7 @@ First analysis of the "Энтеогенный Ренессанс" Telegram archi
 - **This paper**: methodology and findings below.
 - **Companion voice guide**: [pre-2025 voice profile](../voice/entheogen-russian/pre-2025-voice-profile.md), the actionable output built from the findings here.
 
-`period` splits the corpus at 2025-01-01: **pre-2025** (902 posts, channel's first 15 months) vs **post-2025** (1,297 posts, the following 20 months).
+`period` splits the corpus at 2025-01-01: **pre-2025** (902 posts, channel's first 15 months) vs **post-2025** (1,304 posts, the following ~20 months).
 
 ## Method
 
@@ -32,16 +32,16 @@ Caveats: reactions, view counts, and full poll options aren't in the source expo
 
 | Metric | Pre-2025 | Post-2025 |
 |---|---:|---:|
-| Posts | 902 | 1,297 |
+| Posts | 902 | 1,304 |
 | Avg words/post | 151.2 | 215.5 |
 | Avg chars/post | 1,330 | 1,903 |
-| Posts with any hashtag | 28.9% | 87.1% |
+| Posts with any hashtag | 28.9% | 86.8% |
 | Posts using **bold** markdown | 4.3% | 9.0% |
 | Posts with an explicit "источник" (source) callout | 10.6% | 23.2% |
-| Emoji per post | 1.96 | 2.82 |
+| Emoji per post | 1.96 | 2.80 |
 | "?" per post | 0.97 | 1.38 |
 
-Post-2025 content converged on a repeatable shape: bolded headline, 3-6 bullet "основные выводы" (key findings), a hashtag block of 3-5 tags, a "Источник" link. That shape barely existed pre-2025 (10.6% source-callout rate, 28.9% hashtag rate) and became the default after (23.2%, 87.1%). This is consistent with a shift from writing as a person narrating what caught his attention, to summarizing found articles in a fixed template: a legitimate production efficiency, but a different voice.
+Post-2025 content converged on a repeatable shape: bolded headline, 3-6 bullet "основные выводы" (key findings), a hashtag block of 3-5 tags, a "Источник" link. That shape barely existed pre-2025 (10.6% source-callout rate, 28.9% hashtag rate) and became the default after (23.2%, 86.8%). This is consistent with a shift from writing as a person narrating what caught his attention, to summarizing found articles in a fixed template: a legitimate production efficiency, but a different voice.
 
 ### 2. Pre-2025 openers are narrative; post-2025 openers are announcements
 
