@@ -5,3 +5,4 @@ Evidence operations: standards, hierarchy, claims, reviews, market/audience/comp
 - [Claim register](claim-register.md)
 - [Evidence hierarchy](evidence-hierarchy.md)
 - [Folder-by-folder source maps](source-maps/README.md)
+- [Telegram archive: structured database and voice-drift analysis](telegram-archive-voice-analysis.md)

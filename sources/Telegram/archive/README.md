@@ -42,6 +42,12 @@ Each post file has frontmatter (telegram message id, date, exact timestamp, medi
 
 `scripts/parse_archive.py`, run from anywhere: `python3 scripts/parse_archive.py`. It reads the three source HTML files in `../`, rebuilds `posts/` and `index.tsv` from scratch each time. Re-run it whenever a fresher export replaces the source files; it's idempotent and safe to overwrite.
 
+## Structured database and voice analysis
+
+`telegram_archive.db` (SQLite) is a queryable rebuild of every post in `posts/`, one row each, with word/hashtag/link/emoji counts and a `period` column split at 2025-01-01 (`pre-2025` / `post-2025`). Built by `scripts/build_database.py`, run after `parse_archive.py`; rebuilds the database and `voice-drift-stats.json` from scratch each time.
+
+This was built to answer a specific question: does the channel's voice before 2025 differ from after, so the earlier voice can be deliberately imitated. Findings and method: [research/telegram-archive-voice-analysis.md](../../../research/telegram-archive-voice-analysis.md). The resulting imitation guide: [voice/entheogen-russian/pre-2025-voice-profile.md](../../../voice/entheogen-russian/pre-2025-voice-profile.md).
+
 ## Related, and not to be confused with this archive
 
 - `../../../projects/entheogenic-renaissance/` describes an "existing podcast/content asset" with an episode/guest library. That description doesn't match this channel (a text-post channel, not a recorded-conversation format), and its own `episode-library.md` says no actual episode inventory was ever supplied. Worth Vlad confirming directly whether that project file is describing something separate from this Telegram channel, or whether it was a misclassification carried over from thin source material — flagged here rather than silently reconciled, since guessing wrong in either direction would misfile real content.

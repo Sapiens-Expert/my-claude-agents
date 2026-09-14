@@ -58,6 +58,7 @@ Last rebuilt: 2026-08-30
 ## Evidence and operations
 
 - [Research](research/README.md)
+- [Telegram archive: structured database and voice-drift analysis](research/telegram-archive-voice-analysis.md)
 - [Claim register](research/claim-register.md)
 - [Evidence hierarchy](research/evidence-hierarchy.md)
 - [SOPs](sops/README.md)
